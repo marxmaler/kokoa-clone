@@ -1,0 +1,9 @@
+.chats-header {
+    margin-bottom: 5px;
+}
+
+.chats-component-last-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
