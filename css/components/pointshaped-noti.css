@@ -1,0 +1,12 @@
+.pointshaped-noti {
+    background-color: tomato;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+
+    position: absolute;
+}

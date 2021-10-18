@@ -14,3 +14,13 @@
 .screen-header__icons span {
     margin-left: 20px;
 }
+
+.screen-header__icons {
+    position: relative;
+}
+
+.screen-header__icons .pointshaped-noti{
+    position: absolute;
+    right: -5px;
+    top: -6px;
+}
