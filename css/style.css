@@ -10,6 +10,7 @@
 @import "/css/components/badge.css";
 @import "/css/components/pointshaped-noti.css";
 @import "/css/components/icon-row.css";
+@import "/css/components/alt-screen-header.css";
 
 /* Screens */
 @import "/css/screens/login-in.css";
@@ -17,6 +18,7 @@
 @import "/css/screens/chats.css";
 @import "/css/screens/find.css";
 @import "/css/screens/more.css";
+@import "/css/screens/settings.css";
 
 body {
     color: #2e363e;
